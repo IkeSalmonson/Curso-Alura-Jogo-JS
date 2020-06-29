@@ -49,19 +49,19 @@
 
       <footer class="assinaturas">
         <div class="assinatura-container">
-          <img class="assinatura" src="./assets/assinatura-gui.png" alt="Guilherme Lima">
+          <img class="assinatura" src="./certificado-master/assets/assinatura-gui.png" alt="Guilherme Lima">
 
           <a href="https://www.instagram.com/gui.lima.2020" class="assinatura-nome">@gui.lima.2020</a>
         </div>
 
         <div class="assinatura-container">
-          <img class="assinatura" src="./assets/assinatura-ju.png" alt="Juliana Negreiros">
+          <img class="assinatura" src="./certificado-master/assets/assinatura-ju.png" alt="Juliana Negreiros">
 
           <a href="https://www.instagram.com/juu_negreiros" class="assinatura-nome">@juu_negreiros</a>
         </div>
 
         <div class="assinatura-container">
-          <img class="assinatura" src="./assets/assinatura-paulo.png" alt="Paulo Silveira">
+          <img class="assinatura" src="./certificado-master/assets/assinatura-paulo.png" alt="Paulo Silveira">
 
           <a href="https://www.instagram.com/paulo_hipster" class="assinatura-nome">@paulo_hipster</a>
         </div>
