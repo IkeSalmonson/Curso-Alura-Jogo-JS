@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>Certificado Imersão Gamedev Javascript</title>
-    <link rel="stylesheet" href="./reset.css">
-    <link rel="stylesheet" href="./index.css">
+    <link rel="stylesheet" href="./certificado-master/reset.css">
+    <link rel="stylesheet" href="./certificado-master/index.css">
   </head>
   <body>
     <div class="container">
@@ -12,15 +12,15 @@
         <div class="logos">
           <div class="logo-container">
               <a href="https://www.alura.com.br/">
-              <img src="./assets/logo-alura.svg" class="logo" alt="">
+              <img src="./certificado-master/assets/logo-alura.svg" class="logo" alt="">
             </a>
             <a href="https://www.alura.com.br/imersao-gamedev-javascript">
-              <img src="./assets/gamedev-logo.png" class="logo" alt="">
+              <img src="./certificado-master/assets/gamedev-logo.png" class="logo" alt="">
             </a>
           </div>
           <div class="logo-container">
-            <img src="./assets/gamedev-logo-hipster-1.png" class="logo" alt="">
-            <img src="./assets/gamedev-logo-hipster-2.png" class="logo" alt="">
+            <img src="./certificado-master/assets/gamedev-logo-hipster-1.png" class="logo" alt="">
+            <img src="./certificado-master/assets/gamedev-logo-hipster-2.png" class="logo" alt="">
           </div>
         </div>
 
